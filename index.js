@@ -86,3 +86,5 @@ if (day === 1) {
     if (day === 6) { console.log("Sunday") }
     if (day === 0) { console.log("Monday") }
 }
+
+
